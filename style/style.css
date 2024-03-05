@@ -1,0 +1,34 @@
+section div{
+    color: beige;
+    align-items:flex-start;
+}
+
+.logo {
+    align-items: center;
+}
+
+nav {
+    background-color: blanchedalmond;
+    align-self: flex-end;
+
+
+}
+#id01 {
+    text-align:justify;
+    font-size:x-large;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+#id02 {
+    text-align: center;
+
+}
+#id03 {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    color: antiquewhite;
+}
